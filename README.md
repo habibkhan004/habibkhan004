@@ -31,7 +31,7 @@ I care about **how things work**, not just that they work.
 
 ### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,jwt,spring,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,jwt,nestjs" />
 </p>
 
 ### Mobile
