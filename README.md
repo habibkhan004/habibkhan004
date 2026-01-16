@@ -31,12 +31,12 @@ I care about **how things work**, not just that they work.
 
 ### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,jwt,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
 ### Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,react" />
+  <img src="https://skillicons.dev/icons?i=react,android" />
 </p>
 
 ### Databases
