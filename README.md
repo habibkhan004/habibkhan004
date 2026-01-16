@@ -1,6 +1,6 @@
 # Hi, I'm Habib Ullah 👋
 
-I'm a **Full Stack Developer** who builds real products — not tutorial clones.  
+I'm a **Software Developer** having 2 years of experience in Web and App development.  
 My work lives at the intersection of **web, mobile, and AI**, with a strong focus on clean architecture, performance, and scalability.
 
 I care about **how things work**, not just that they work.
@@ -31,12 +31,12 @@ I care about **how things work**, not just that they work.
 
 ### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,jwt" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,jwt,springboot,nestjs" />
 </p>
 
 ### Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,react" />
+  <img src="https://skillicons.dev/icons?i=android,reactnative" />
 </p>
 
 ### Databases
